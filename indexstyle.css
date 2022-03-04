@@ -62,7 +62,8 @@ html {
 
 
 .btn1 {
-    width: 50%;
+    text-decoration:none;
+    width: 60%;
     font-size: 220%;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -96,7 +97,8 @@ html {
 
 
 .btn2 {
-    width: 50%;
+    text-decoration:none;
+    width: 60%;
     font-size: 220%;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -118,19 +120,6 @@ html {
         border-radius: 15px;
         cursor: pointer;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -188,10 +177,6 @@ html {
 
 
 
-
-
-
-
 .h2container {
     text-decoration: underline;
     justify-content: center;
@@ -229,3 +214,12 @@ html {
     letter-spacing: 3px;
     background-color: dimgray;
 }
+
+.comment-box>.body {
+    margin-left: 5%;
+
+}
+
+
+
+
