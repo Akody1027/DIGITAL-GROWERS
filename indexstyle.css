@@ -57,7 +57,7 @@ html {
 
 
         .btns{
-           Margin:0px;
+          
           Text-align:center;
 
 
@@ -71,7 +71,7 @@ html {
 
 
     .btn1 {
-       
+       Margin-left:0px;
         margin-top:12%;
         padding:1%;
         background-color:dimgray;
