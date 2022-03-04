@@ -56,7 +56,6 @@ html {
 
 
 .btn1container {
-    text-align: center;
 }
 
 
@@ -80,7 +79,7 @@ html {
 
 
     .btn1:hover {
-        font-size: 260%;
+        font-size: 230%;
         border-radius: 15px;
         cursor: pointer;
     }
@@ -90,7 +89,6 @@ html {
 
 
 .btn2container {
-    text-align: center;
 }
 
 
@@ -115,7 +113,7 @@ html {
 
 
     .btn2:hover {
-        font-size: 260%;
+        font-size: 230%;
         border-radius: 15px;
         cursor: pointer;
     }
@@ -130,6 +128,7 @@ html {
     justify-content: center;
     text-align: center;
     width: 100%;
+    margin-top:10%;
     margin-bottom: .5PX;
     padding: 0px;
     border: 0px;
