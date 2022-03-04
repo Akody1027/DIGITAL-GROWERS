@@ -71,8 +71,8 @@ html {
 
 
     .btn1 {
-        padding:1%;
-        margin-top:10%;
+       
+        margin-top:12%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
         font-weight:900;
@@ -103,7 +103,6 @@ html {
 
 
     .btn2 {
-        padding:1%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
         font-weight:900;
