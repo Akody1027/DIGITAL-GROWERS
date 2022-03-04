@@ -215,8 +215,8 @@ html {
     background-color: dimgray;
 }
 
-.comment-box>.body {
-    margin-left: 5%;
+.comment-box {
+    margin-left: 10%;
 
 }
 
@@ -226,4 +226,17 @@ html {
     color: #fff;
     background-color:pink;
 }
+
+
+
+.comment-form .footer .options {
+
+
+
+
+}
+
+
+
+
 
