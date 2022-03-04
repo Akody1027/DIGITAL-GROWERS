@@ -72,7 +72,7 @@ html {
 
     .btn1 {
        
-        margin-top:12%;
+        margin-top:5%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
         font-weight:900;
@@ -80,7 +80,7 @@ html {
         text-align:center;
         border-radius: 15px;
         text-decoration: none;
-        font-size: 200%;
+        font-size: 250%;
         position: fixed;
         z-index:5;
         border: 5px solid greenyellow;
@@ -110,7 +110,7 @@ html {
         text-align:center;
         border-radius: 15px;
         text-decoration: none;
-        font-size: 200%;
+        font-size: 250%;
         border: 5px solid greenyellow;
         position: fixed;
         z-index:5;
