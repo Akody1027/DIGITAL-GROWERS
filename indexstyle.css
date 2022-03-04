@@ -222,4 +222,8 @@ html {
 
 
 
+.button.btn.primary-button {
+    color: #fff;
+    background-color:pink;
+}
 
