@@ -1,0 +1,233 @@
+﻿head {
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+
+
+html {
+    background-color: greenyellow;
+}
+
+
+
+
+.VID1 {
+    z-index: -5;
+}
+
+
+
+
+
+
+
+.heading {
+    width: 100%;
+    text-align: center;
+    font-size: 250%;
+    color: yellow;
+    background-color: dimgray;
+    font-family: 'Shizuru', cursive;
+    position: fixed;
+    margin-top: 0px;
+    box-shadow: greenyellow 5px 5px 5px 10px;
+}
+
+
+
+
+
+.video1 {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-align: center;
+}
+
+
+
+
+
+.BTNS {
+}
+
+
+
+
+
+.btn1container {
+    text-align: center;
+}
+
+
+.btn1 {
+    width: 40%;
+    font-size: 220%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: dimgray;
+    color: yellow;
+    border: 5px solid yellow;
+    font-family: 'Shizuru', cursive;
+    font-weight: 900;
+    text-shadow: 3px 3px black;
+    line-height: 40px;
+    letter-spacing: 3px;
+}
+
+
+
+    .btn1:hover {
+        font-size: 260%;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+
+
+
+
+
+.btn2container {
+    text-align: center;
+}
+
+
+.btn2 {
+    width: 40%;
+    font-size: 220%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: dimgray;
+    color: yellow;
+    border: 5px solid yellow;
+    font-family: 'Shizuru', cursive;
+    font-weight: 900;
+    text-shadow: 3px 3px black;
+    line-height: 40px;
+    letter-spacing: 3px;
+}
+
+
+
+    .btn2:hover {
+        font-size: 260%;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.p1container {
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-bottom: .5PX;
+    padding: 0px;
+    border: 0px;
+    font-size: 280%;
+    color: yellow;
+    font-family: 'Shizuru', cursive;
+    text-shadow: 3px 3px black;
+    line-height: 40px;
+    letter-spacing: 3px;
+    background-color: dimgray;
+}
+
+
+
+
+
+
+
+
+.h1container {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 1PX;
+    padding: 0px;
+    border: 0px;
+    font-size: 110%;
+    color: yellow;
+    font-family: 'Shizuru', cursive;
+    text-shadow: 3px 3px black;
+    line-height: 40px;
+    letter-spacing: 3px;
+    background-color: dimgray;
+}
+
+.h1 {
+    margin-top: 1PX;
+    font-size: 20%;
+    text-align: center;
+    color: yellow;
+}
+
+
+
+
+
+
+
+
+
+.h2container {
+    text-decoration: underline;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-bottom: .5PX;
+    padding: 0px;
+    border: 0px;
+    font-size: 210%;
+    color: yellow;
+    font-family: 'Shizuru', cursive;
+    text-shadow: 3px 3px black;
+    line-height: 40px;
+    letter-spacing: 3px;
+    background-color: dimgray;
+}
+
+
+
+
+
+
+.services {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-bottom: .5PX;
+    padding: 0px;
+    border: 0px;
+    font-size: 210%;
+    color: yellow;
+    font-family: 'Shizuru', cursive;
+    text-shadow: 3px 3px black;
+    line-height: 35px;
+    letter-spacing: 3px;
+    background-color: dimgray;
+}
