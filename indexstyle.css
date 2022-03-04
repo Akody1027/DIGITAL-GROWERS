@@ -71,7 +71,7 @@ html {
 
 
     .btn1 {
-        height:80px;
+        padding:1%;
         margin-top:10%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
@@ -103,7 +103,7 @@ html {
 
 
     .btn2 {
-         height:80px;
+        padding:1%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
         font-weight:900;
@@ -111,7 +111,7 @@ html {
         text-align:center;
         border-radius: 15px;
         text-decoration: none;
-        font-size: 210%;
+        font-size: 200%;
         border: 5px solid greenyellow;
         position: fixed;
         z-index:5;
@@ -137,7 +137,7 @@ html {
     justify-content: center;
     text-align: center;
     width: 100%;
-    margin-top:10%;
+    margin-top:23%;
     margin-bottom: .5PX;
     padding: 0px;
     border: 0px;
@@ -162,6 +162,7 @@ html {
     text-align: center;
     width: 100%;
     margin-top: 1PX;
+    margin-bottom:15%;
     padding: 0px;
     border: 0px;
     font-size: 110%;
@@ -185,6 +186,7 @@ html {
 
 
 .h2container {
+    margin-top: 15%;
     text-decoration: underline;
     justify-content: center;
     text-align: center;
