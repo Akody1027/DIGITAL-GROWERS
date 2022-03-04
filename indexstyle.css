@@ -57,13 +57,12 @@ html {
 
 .btn1container {
     text-align: center;
-    width:100%;
 }
 
 
 .btn1 {
     text-decoration:none;
-    width: 60%;
+    position:fixed;
     font-size: 220%;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -92,13 +91,11 @@ html {
 
 .btn2container {
     text-align: center;
-    width:100%;
 }
 
 
 .btn2 {
     text-decoration:none;
-    width: 60%;
     font-size: 220%;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -111,6 +108,7 @@ html {
     text-shadow: 3px 3px black;
     line-height: 40px;
     letter-spacing: 3px;
+    position:fixed;
 }
 
 
