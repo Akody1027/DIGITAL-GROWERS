@@ -58,7 +58,7 @@ html {
 
         .btns{
            text-align:center;
-           width:50%;
+           width:60%;
 
 
 
@@ -87,7 +87,7 @@ html {
         border: 5px solid greenyellow;
         box-shadow: greenyellow 10px 10px 10px 5px;
         opacity:60%;
-        width:50%;
+        width:60%;
     }
 
 
@@ -118,7 +118,7 @@ html {
         z-index:5;
         box-shadow: greenyellow 10px 10px 10px 5px;
         opacity:60%;
-        width:50%;
+        width:60%;
     }
 
 
