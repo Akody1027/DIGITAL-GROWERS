@@ -235,14 +235,15 @@ html {
 }
 
 .btncover{
-    height:50px;
-    width:500px;
+    height:30px;
+    width:200px;
     background-color:pink;
     color:white;
     font-weight:900px;
     border-radius:15px;
-    position:bottom right;
+    position:float;
     z-index:5;
+    margin-bottom:300px;
 
 
 }
