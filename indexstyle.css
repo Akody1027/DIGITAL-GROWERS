@@ -242,6 +242,7 @@ html {
     font-weight:900px;
     border-radius:15px;
     position:bottom right;
+    z-index:5;
 
 
 }
