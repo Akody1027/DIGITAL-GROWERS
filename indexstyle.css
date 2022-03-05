@@ -234,19 +234,15 @@ html {
     background-color:dimgray, opacity:60%;
 }
 
-button.btn.primary-button {
-    color: #fff;
-    background-color: #e91e63;
-    
-    
-    
-    
-     button.btn.danger-button {
-    color: white;
-    background-color: #d9534f; } 
-    
-    
-    button, input {
-    border-radius: 20px;
-    background-color: #e91e63;
+.btncover{
+    height:10px;
+    width:20px;
+    background-color:pink;
+    color:white;
+    font-weight:900px;
+    border-radius:15px;
+    position:bottom right;
+
+
 }
+
