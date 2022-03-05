@@ -290,7 +290,10 @@ background-color:pink;
     background-color: pink !important;
     
     
-    
+        button[type=submit].btn primary-button{
+         background-color: pink;
+        }
+      
     
     
     
