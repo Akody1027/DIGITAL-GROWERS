@@ -278,7 +278,19 @@ background-color:pink;
 
 
 
-.button.btn.primary-button {
+.button .btn.primary-button {
     color: #fff;
     background-color: pink;
 }
+    
+    
+    
+    button.btn.primary-button {
+    color: #fff;
+    background-color: pink;
+    
+    
+    
+    
+    
+    
