@@ -230,12 +230,11 @@ html {
 
 .comment-box {
     margin-left: 10%;
-
+    background-color:pink;
 }
 
-button.btn.danger-button {
-    color: white;
-    background-color: #d9534f; }
-  
+button.btn.primary-button {
+    color: #fff;
+    background-color: #e91e63;
     
     
