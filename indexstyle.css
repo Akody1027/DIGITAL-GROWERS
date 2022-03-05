@@ -285,21 +285,16 @@ background-color:pink;
     
     
     
-    button.btn.primary-button {
+    
+   .btnprimary-button {
     color: #fff;
-    background-color: pink !important;
+    background-color: pink;
+}
     
     
-     .footer button[type=submit]{
-         background-color: pink;
-        }
-      
-        
-        
-        #commentbox.commentbox.btn primary-button{
-        
-        background-color: pink;
-        }
+    
+    
+
     
     
     
