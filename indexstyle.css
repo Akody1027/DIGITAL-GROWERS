@@ -233,10 +233,9 @@ html {
 
 }
 
-
-.btn.primary-button {
-    color: #fff;
-    background-color:pink;
-}   
+button.btn.danger-button {
+    color: white;
+    background-color: #d9534f; }
+  
     
     
