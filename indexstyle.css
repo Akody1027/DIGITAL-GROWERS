@@ -234,73 +234,9 @@ html {
 }
 
 
-
-
-.a, button{
-
-background-color:pink;
-
-}
-
-
-.comment-form .btn primary-button{
-
-
-background-color:pink;
-}
-
-
-
-
-
-
-
-
-
-.comment-form .button{
-
-background-color:pink;
-
- 
-    
-
-}
-
-
-
-.comment-form .footer {
-    padding-top: 10px;
-    width: 100%;
-    max-width: 500px;
-    display: inline-block;
-    position: relative;
-    text-align: center;
-
-
-
-.button .btn.primary-button {
+.btn.primary-button {
     color: #fff;
-    background-color: pink;
-}
-    
-    
-    
-    
-   .btnprimary-button {
-    color: #fff;
-    background-color: pink;
-}
-    
-    
-    
-    
-    commentbox('5638999137845248-proj',){
-    
-        backgroundColor:pink;
-        subtextColor:pink;
-    
-    
-    }
-    
+    background-color:pink;
+}   
     
     
