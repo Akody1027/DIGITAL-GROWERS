@@ -296,7 +296,7 @@ background-color:pink;
       
         
         
-        #commentbox.commentbox.button[type=submit]{
+        #commentbox.commentbox.btn primary-button{
         
         background-color: pink;
         }
