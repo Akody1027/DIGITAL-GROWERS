@@ -235,48 +235,20 @@ html {
 
 
 
-.button:btn primary-button {
-    color: #fff;
-    background-color: pink;
-}
 
 
 
-.btn primary-button {
-    color: #fff;
-    background-color:pink;
-}
 
 
 
-.comment-form .footer .options {
+.comment-form[btn primary-button]{
 
-
-
-    
-    
-    input[type=button]{
-    
-    background-color:pink;
-    
-    }
-   
-    
-    
-    
-    
-    
-
-}
-
-a, button {
 background-color:pink;
 
+ 
+    
 
 }
-button.btn {
-background-color:pink;
 
-}
 
 
