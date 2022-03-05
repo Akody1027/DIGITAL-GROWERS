@@ -243,9 +243,21 @@ background-color:pink;
 }
 
 
+.comment-form .btn primary-button{
 
 
-.comment-form[button]{
+background-color:pink;
+}
+
+
+
+
+
+
+
+
+
+.comment-form .button{
 
 background-color:pink;
 
@@ -253,6 +265,17 @@ background-color:pink;
     
 
 }
+
+
+
+.comment-form .footer {
+    padding-top: 10px;
+    width: 100%;
+    max-width: 500px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+
 
 
 .button.btn.primary-button {
