@@ -71,7 +71,7 @@ html {
 
 
     .btn1 {
-       Margin-left:0px;
+        margin-left: -30%;
         margin-top:12%;
         padding:1%;
         background-color:dimgray;
@@ -104,6 +104,7 @@ html {
 
 
     .btn2 {
+        margin-left: -30%;
         padding:1%;
         background-color:dimgray;
         font-family: 'Shizuru', cursive;
