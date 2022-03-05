@@ -294,6 +294,12 @@ background-color:pink;
          background-color: pink;
         }
       
+        
+        
+        #commentbox.commentbox.button[type=submit]{
+        
+        background-color: pink;
+        }
     
     
     
