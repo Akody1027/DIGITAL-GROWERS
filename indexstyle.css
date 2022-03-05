@@ -229,24 +229,12 @@ html {
 }
 
 .comment-box {
+    margin-top:5%;
+    margin-bottom:10%;
     width:80%;
     margin-left: 10%;
     background-color:dimgray;
     z-index:-5;
 }
 
-.btncover{
-    height:35px;
-    width:100px;
-    background-color:pink;
-    color:white;
-    font-weight:900px;
-    border-radius:15px;
-    position:float;
-    z-index:50;
-    margin-bottom:300px;
-    position:inherit;
-
-
-}
 
