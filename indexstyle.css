@@ -246,4 +246,7 @@ button.btn.primary-button {
     background-color: #d9534f; } 
     
     
-    
+    button, input {
+    border-radius: 20px;
+    background-color: #e91e63;
+}
