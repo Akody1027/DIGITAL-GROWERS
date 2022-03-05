@@ -94,6 +94,7 @@ html {
 
         .btn1:hover {
             box-shadow: greenyellow 10px 10px 10px 10px;
+            opacity:80%;
         }
 
 
@@ -103,6 +104,7 @@ html {
 
 
     .btn2 {
+        margin-left: 50%;
         width: 47%;
         display: block;
         padding:1%;
@@ -126,6 +128,7 @@ html {
 
         .btn2:hover {
             box-shadow: greenyellow 10px 10px 10px 10px;
+            opacity:80%;
         }
 
 
