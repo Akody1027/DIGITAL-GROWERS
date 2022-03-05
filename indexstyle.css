@@ -236,7 +236,7 @@ html {
 
 
 
-a, button{
+.a, button{
 
 background-color:pink;
 
@@ -255,7 +255,7 @@ background-color:pink;
 }
 
 
-button.btn.primary-button {
+.button.btn.primary-button {
     color: #fff;
     background-color: pink;
 }
