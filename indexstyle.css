@@ -231,7 +231,8 @@ html {
 .comment-box {
     width:80%;
     margin-left: 10%;
-    background-color:dimgray, opacity:60%;
+    background-color:dimgray;
+    z-index:-5;
 }
 
 .btncover{
