@@ -176,18 +176,15 @@ z-index:-5;
     margin-bottom:15%;
     padding: 0px;
     border: 0px;
-    font-size: 110%;
     color: yellow;
     font-family: 'Shizuru', cursive;
     text-shadow: 3px 3px black;
     line-height: 40px;
-    letter-spacing: 3px;
     background-color: dimgray;
 }
 
 .h1 {
     margin-top: 1PX;
-    font-size: 20%;
     text-align: center;
     color: yellow;
 }
