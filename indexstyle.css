@@ -227,8 +227,9 @@ z-index:-5;
     font-family: 'Shizuru', cursive;
     text-shadow: 3px 3px black;
     line-height: 35px;
-    letter-spacing: 3px;
     background-color: dimgray;
+    font-weight: bold;
+}
 }
 
 .comment-box {
